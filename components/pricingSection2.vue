@@ -3,24 +3,28 @@
     class="py-24 my-12 bg-gradient-to-br from-gray-600 to-gray-900 text-gray-100"
   >
     <div v-for="item in section2">
-      <div class="flex flex-row">
-        <div class="left w-1/2 h-72" :style="item.imageLink">
-          <p class="backdrop-blur-sm py-1 backdrop-brightness-75 mt-36">
-            {{ item.imageLink }}
-          </p>
+      <div class="flex flex-row 500 rounded-2xl mx-48 my-12">
+        <div class="left w-1/2 h-[500px] rounded-l-2xl" :style="item.imageLink">
+          <p class="backdrop-blur-sm py-0 backdrop-brightness-75 mt-36"></p>
         </div>
         <div class="mid h-full relative w-0">
           <button
-            class="border border-orange-600 text-white backdrop-blur-sm absolute top-5 left-4 rounded-full px-2"
+            class="shadow-sm shadow-gray-500 text-gray-300 backdrop-blur-sm backdrop-brightness-75 absolute top-12 -left-40 rounded-md w-80 py-1 transition-all hover:scale-105 hover:backdrop-blur-md hover:text-white"
           >
-            Read
+            Get Access to {{ item.title }}
           </button>
         </div>
-        <div class="right w-1/2 bg-gradient-to-bl from-gray-700 to-gray-950">
-          <h2 class="text-orange-500 text-xl py-3 pl-3">{{ item.title }}</h2>
-          <li v-for="para in item.content" class="list-item pl-6">
-            {{ para }}
-          </li>
+        <div
+          class="right w-1/2 bg-gradient-to-tr from-gray-800 to-gray-950 rounded-r-2xl"
+        >
+          <div
+            class="card rounded-2xl p-8 m-6 bg-gradient-to-br from-gray-800/50 to-gray-900 mt-36"
+          >
+            <h2 class="text-orange-500 text-xl py-3 pl-3">{{ item.title }}</h2>
+            <li v-for="para in item.content" class="list-item pl-6">
+              {{ para }}
+            </li>
+          </div>
         </div>
       </div>
     </div>
