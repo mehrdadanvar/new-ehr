@@ -1,12 +1,16 @@
 <template>
-  <main class="">
+  <main class="mt-24">
     <UContainer>
-      <section class="Hero h-96">
-        <h2 class="text-xl text-gray-700">
-          EdEHR is an educational electronic health record and laboratory
-          information system designed in collaboration with healthcare educators
-        </h2>
-        <UButton color="orange">Get Started</UButton>
+      <section class="Hero backdrop-grayscale backdrop-blur-[2px] flex">
+        <div class="left"><img src="/image1.jpg" alt="" width="700" /></div>
+        <div class="right">
+          <h2 class="text-xl text-gray-700">
+            EdEHR is an educational electronic health record and laboratory
+            information system designed in collaboration with healthcare
+            educators
+          </h2>
+          <UButton color="orange" class="">Get Started</UButton>
+        </div>
       </section>
       <section>
         <h3>some Header</h3>
@@ -46,7 +50,15 @@
         </p>
       </section>
     </UContainer>
+    <section>Students love the EdEHR</section>
   </main>
 </template>
 <script setup></script>
-<style scoped></style>
+<style scoped>
+main {
+  background-image: url("/home.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+</style>
