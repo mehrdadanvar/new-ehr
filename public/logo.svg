@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187px" height="215px" viewBox="0 0 187 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EdEHR-heart</title>
+    <g id="EdEHR-heart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="heart" fill-rule="nonzero">
+            <path d="M13.6467413,91.4162307 C13.6467413,36.7038629 75.6576038,35.727405 94,70.8990928 C94,70.8990928 84.2766696,30.2008644 42.467649,36.7038629 C-7.78239472,44.5203269 -37.0093997,142.219886 94,194 L94,158.828312 C94,158.828312 13.6467413,146.128598 13.6467413,91.4162307 Z" id="Path" fill="#27AAE1"></path>
+            <path d="M173.498733,55.4162307 C173.498733,0.703862921 112.147332,-0.272594998 94,34.8990928 C94,34.8990928 103.619927,-5.79913559 144.984324,0.703862921 C194.699978,8.52032695 223.615176,106.219886 94,158 L94,122.828312 C94,122.828312 173.498733,110.128598 173.498733,55.4162307 Z" id="Path" fill="#ED1C24"></path>
+            <rect id="Rectangle" fill="#27AAE1" x="94" y="194" width="21" height="21"></rect>
+            <rect id="Rectangle" fill="#27AAE1" x="115" y="166" width="30" height="29"></rect>
+            <rect id="Rectangle" fill="#ED1C24" x="149" y="197" width="15" height="15"></rect>
+        </g>
+    </g>
+</svg>

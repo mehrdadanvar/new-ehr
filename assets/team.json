@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Bryan Gilbert M.Sc",
+    "role": "Executive Director",
+    "image": "image1.jpeg",
+    "content": [
+      "Bryan's multi-decade long career in software development has found a perfect fit with the EdEHR project. He is the founding technical architect and lead developer of this open source EdEHR project.",
+      "I am honoured and privileged to be working with healthcare educators to bring this necessary project to the class-room and simulation lab. I am deeply grateful to hear how students are really looking forward to using the EdEHR to develop their skills, and I am so happy to provide the EdEHR.org services in collaboration with some amazing healthcare educators."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lin Cavelti",
+    "role": "Vice President",
+    "image": "image2.jpeg",
+    "content": [
+      "As the founder of C2 Enterprises Ltd, Lin has played a pivotal role in developing product brands that have achieved remarkable success, establishing a prominent presence in the global retail landscape.",
+      "Lin's professional strengths include exceptional organizational and communication skills, and these support her success as she identifies synergies between companies and fosters mutually beneficial relationships.",
+      "Lin leads her team on the path towards building successful collaborative programs, recognizing the potential for shared success and growth. In her role as VP, Lin shares her expertise in project management, market research, effective communication and developing successful brands."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jonathan Longe",
+    "role": "Technical Strategy",
+    "image": "image3.jpeg",
+    "content": [
+      "Jonathan is an experienced full-stack software developer with a passion for transforming paper-based, manual processes into streamlined, digital processes. Jonathan's experiences co-founding multiple SaaS web applications has provided EdEHR.org many valuable insights that have helped shaped the EdEHR.org service offering. He also shares his experience leading software development projects that delight customers and deliver value for the public sector."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jonathan Longe",
+    "role": "Lead EdEHR Academic Advisor",
+    "image": "image4.jpeg",
+    "content": [
+      "Glynda is co-founder and leading academic advisor of the EdEHR project.",
+      "Glynda is Program Lead for the Advanced Certificate in Digital Health at the British Columbia Institute of Technology (BCIT). Her interests include the integration of Informatics and digital health in undergraduate and post-graduate education, and the impact of technology on clinical judgment and decision-making at the point of care.",
+      "Glynda co-authored two open source education resources (Clinical Procedures for Safer Patient Care and Health Case Studies) funded by BC Campus in collaboration with local Health Authorities and BC Nursing Schools. She is co-founder of the Interprofessional open source Educational EHR EdEHR project",
+      "Glynda represents the School of Health Sciences on the Research Ethics Board at BCIT, and is a digital health peer leader and content developer for CASN and Canada Health Infoway. Glynda is a former Board member and President of the Canadian Nursing Informatics Association, a Fellow of the American Medical Informatics Association, and a member of the AMIA Education and Nursing Informatics Working Groups."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tammie Hardie BA, MLT/RT, CAE",
+    "role": "EdEHR Med Lab Academic Advisor, Med Lab Simulation Coordinator, BCIT",
+    "image": "",
+    "content": [
+      "Tammy conceived of the idea of using the EdEHR as a laboratory information system (LIS). She is currently BCIT's med lab simulation coordinator and is faculty in the Medical Laboratory Sciences Program. Tammy brings a depth of clinical laboratory experience from across all of BC's health authorities, and she used this experience to guide the design and development of the laboratory information system (LIS) module in the EdEHR. Tammy integrated the way the different regions processed lab requests into an approach that prepares graduate technologists to be ready to get into the real-life lab and get to work right away with confidence.",
+      "The LIS module was introduced to the Hematology lab last year, and within weeks the team of instructors went from new concept to managing classes with almost a 100 students per lab. Everything went really well and now the Urinalysis classes are working in the LIS module."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chris Hillary M.Sc",
+    "role": "Lead EdEHR Academic Advisor, Simulation",
+    "image": "image6.jpeg",
+    "content": [
+      "Chris has over 15 years of experience in emergency, critical care, and transport nursing. He started his career in the Mineral Springs Hospital in Banff, AB, before moving to the Foothills Medical Center Emergency Department in Calgary, AB, where he spent four years. In 2008, he joined the Interior Health as a critical care transport nurse, an innovative ground transport team. In 2011, Chris took a once in a lifetime opportunity as a critical care flight RN in Canada's north, servicing air access only communities in Nunavut and the Northwest Territories. During this time, he became a clinical educator for the same aeromedical program. He has extensive experience in working with a multi-disciplinary cohort and an indigenous population, as well as in challenging and remote environments.",
+      "Chris has been teaching as a nursing educator at Selkirk College since 2008, involved in simulation and virtual simulation facilitation, development, programming, and development; educational development; team-based learning; educational technologies and learning management system support; and special projects, including the Educational Health Record (EdEHR)."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Joan Humphries RN, PhD",
+    "role": "Lead EdEHR Academic Advisor",
+    "image": "image7.jpeg",
+    "content": [
+      "Joan has an extensive background in clinical nursing, nursing education, and research. For the past five years, Joan has served in the capacity of Academic Coordinator for the University of Victoria and College Partners. During that time, she has led a curriculum refresh, which has involved the integration of information technology into the four- year BSN program. The opportunity to be a part of EdEHR at this stage of its development, and incorporate it into the curriculum has proven to be valuable on many levels. Faculty and students throughout the partnership are benefiting from its use in the skills lab as well as in the context of simulation. The promise for EdEHR to contribute to student learning is immense."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Rob Kruger RN MEd CNCC(C)",
+    "role": "Co-Founder EdEHR project",
+    "image": "image8.jpeg",
+    "content": [
+      "Rob is an experienced Nursing Instructor with a demonstrated history of working in the higher education industry. He is skilled in Critical Care Medicine, Educational Technology, Technical Writing, Healthcare, and Critical Thinking. He is a strong healthcare services professional with a Masters focused in Educational Technology and Learning Design from Simon Fraser University.",
+      "Rob coauthored the Environmental Scan Report which laid out the foundation for the EdEHR project, and Rob is a co-founder of the EdEHR project. He provided guidance during the early formative years of the EdEHR project, based on his deep experience in critical care nursing and nursing education.",
+      "Rob co-authored the open source education resource Health Case Studies funded by BC Campus in collaboration with local Health Authorities and BC Nursing Schools. Some of the case studies in this book have been implemented in the EdEHR."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Joyce Law RN, BSN, BSc, CCSNE",
+    "role": "Faculty, BCIT",
+    "image": "",
+    "content": [
+      "Joyce is on nursing faculty at BCIT’s Bachelor of Science in Nursing program. She is a certified simulation educator and key in leading the implementation of EdEHR into the nursing program. She holds an advance certificate in neonatal nursing specialty and continues to work bedside in the NICU. Joyce has used her experiences to work extensively in the development of EdEHR to meet the needs of nursing students.",
+      "Joyce recognizes the importance of student acceptance and effective orientations to EHR systems. She has been creating escape rooms and seek and find simulations to promote active orientation to EdEHR. EdEHR will be utilized in simulation education to support nursing student competency in EHR and to support clinical judgement and safe, quality patient care."
+    ]
+  }
+]

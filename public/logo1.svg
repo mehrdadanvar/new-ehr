@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="187px"
+   height="215px"
+   viewBox="0 0 187 215"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.9534884"
+     inkscape:cx="93.588235"
+     inkscape:cy="127.86176"
+     inkscape:window-width="1880"
+     inkscape:window-height="1019"
+     inkscape:window-x="40"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title1">EdEHR-heart</title>
+  <g
+     id="EdEHR-heart"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="heart"
+       fill-rule="nonzero">
+      <path
+         d="M13.6467413,91.4162307 C13.6467413,36.7038629 75.6576038,35.727405 94,70.8990928 C94,70.8990928 84.2766696,30.2008644 42.467649,36.7038629 C-7.78239472,44.5203269 -37.0093997,142.219886 94,194 L94,158.828312 C94,158.828312 13.6467413,146.128598 13.6467413,91.4162307 Z"
+         id="Path"
+         fill="#27AAE1"
+         style="fill:#0d2428;fill-opacity:1" />
+      <path
+         d="M173.498733,55.4162307 C173.498733,0.703862921 112.147332,-0.272594998 94,34.8990928 C94,34.8990928 103.619927,-5.79913559 144.984324,0.703862921 C194.699978,8.52032695 223.615176,106.219886 94,158 L94,122.828312 C94,122.828312 173.498733,110.128598 173.498733,55.4162307 Z"
+         id="path1"
+         fill="#ED1C24"
+         style="fill:#fd7e14" />
+      <rect
+         id="Rectangle"
+         fill="#27AAE1"
+         x="94"
+         y="194"
+         width="21"
+         height="21"
+         style="fill:#1e3037;fill-opacity:1" />
+      <rect
+         id="rect1"
+         fill="#27AAE1"
+         x="115"
+         y="166"
+         width="30"
+         height="29"
+         style="fill:#fd7e14" />
+      <rect
+         id="rect2"
+         fill="#ED1C24"
+         x="149"
+         y="197"
+         width="15"
+         height="15"
+         style="fill:#201112;fill-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>EdEHR-heart</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
